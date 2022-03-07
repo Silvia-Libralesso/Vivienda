@@ -117,6 +117,6 @@ public class Vivienda
     
     public void actualizarPrecio(int descuento)
     {   
-        setPrecio(getPrecio() - getPrecio() * descuento /100);
+        setPrecio(getPrecio() - getPrecio() * descuento /100);        
     }
 }
